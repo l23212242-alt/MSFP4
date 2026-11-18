@@ -93,7 +93,7 @@ La modificación de $C$ y $R_2$ permite comparar una condición de referencia co
 
 El siguiente diagrama representa la condición de control y el caso de hipertiroidismo, mostrando los órganos y elementos relacionados con el modelo fisiológico.
 
-![Diagrama BioRender del sistema endócrino](BIORENDER%281%29.jpeg)
+![Diagrama BioRender del sistema endócrino](BIORENDER.jpeg)
 
 
 ## Formulación matemática
