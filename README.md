@@ -2,8 +2,9 @@
 
 # Práctica 4: Modelado y control del sistema endócrino
 
+Repositorio académico de **Modelado de Sistemas Fisiológicos**, correspondiente al programa de **Ingeniería Biomédica** del Tecnológico Nacional de México / Instituto Tecnológico de Tijuana. La práctica aborda la representación simplificada del **sistema endócrino mediante una analogía eléctrica**, la formulación de su modelo matemático, la obtención de funciones de transferencia y el análisis de estabilidad y comportamiento en estado estacionario. Se comparan dos condiciones de operación, denominadas **control y caso**, mediante la modificación de los parámetros eléctricos del circuito equivalente.
 
-## Datos académicos
+El modelo utiliza una resistencia de **1 kΩ**, una inductancia de **100 mH** y un capacitor cuya capacitancia cambia entre **1 µF para la condición control y 1000 µF para el caso**. Asimismo, la resistencia de salida se modifica de **100 kΩ a 1 kΩ**, permitiendo estudiar las diferencias en la respuesta dinámica de ambas condiciones. Finalmente, se diseña y sintoniza un controlador **PID** para aproximar la respuesta del caso a la respuesta de referencia, reproduciendo y comparando los resultados mediante MATLAB/Simulink y Python, con apoyo de mediciones experimentales realizadas con osciloscopio.
 
 **Docente:** Dr. Paul Antonio Valle Trujillo  
 **Correo:** [paul.valle@tectijuana.edu.mx](mailto:paul.valle@tectijuana.edu.mx)  
