@@ -16,7 +16,7 @@
 **Matrícula:** 23212242  
 **Correo institucional:** [l23212242@tectijuana.edu.mx](mailto:l23212242@tectijuana.edu.mx)  
 
-**Repositorio de la asignatura:** [(https://github.com/DrPaulValle/MSF-IBF1020)  ](https://github.com/DrPaulValle/MSF-IBF1020)
+**Repositorio de la asignatura:** [https://github.com/DrPaulValle/MSF-IBF1020  ](https://github.com/DrPaulValle/MSF-IBF1020)
 
 **Sede:** Blvd. Alberto Limón Padilla s/n, Tijuana, C. P. 22454, B. C., México.
 
