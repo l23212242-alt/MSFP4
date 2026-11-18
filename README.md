@@ -3,16 +3,22 @@
 # Práctica 4: Modelado y control del sistema endócrino
 
 
-**Docente: Dr. Paul Antonio Valle Trujillo**
-**Correo: paul.valle@tectijuana.edu.mx**
-**Departamento: Ingeniería Eléctrica y Electrónica**
-**Institución: Tecnológico Nacional de México / Instituto Tecnológico de Tijuana**
-**Asignatura: Modelado de Sistemas Fisiológicos**
-**Programa: Ingeniería Biomédica**
-**Estudiante: Javier Vazquez Gomez · 23212242 · l23212242@tectijuana.edu.mx**
+## Datos académicos
 
-**Repositorio de la asignatura: https://github.com/DrPaulValle/MSF-IBF1020**
-**Sede: Blvd. Alberto Limón Padilla s/n, Tijuana, C. P. 22454, B. C., México.**
+**Docente:** Dr. Paul Antonio Valle Trujillo  
+**Correo:** [paul.valle@tectijuana.edu.mx](mailto:paul.valle@tectijuana.edu.mx)  
+**Departamento:** Ingeniería Eléctrica y Electrónica  
+**Institución:** Tecnológico Nacional de México / Instituto Tecnológico de Tijuana  
+**Asignatura:** Modelado de Sistemas Fisiológicos  
+**Programa:** Ingeniería Biomédica  
+
+**Estudiante:** Javier Vázquez Gómez  
+**Matrícula:** 23212242  
+**Correo institucional:** [l23212242@tectijuana.edu.mx](mailto:l23212242@tectijuana.edu.mx)  
+
+**Repositorio de la asignatura:** [MSF-IBF1020](https://github.com/DrPaulValle/MSF-IBF1020)  
+
+**Sede:** Blvd. Alberto Limón Padilla s/n, Tijuana, C. P. 22454, B. C., México.
 
 ## Contenido
 
